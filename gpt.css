@@ -5,7 +5,7 @@ body, button, input, optgroup, select, textarea, column, p {
     font-style: normal;
 }
 
-h2{
+h2, .bold-text{
     color: #000000;
 }
 
