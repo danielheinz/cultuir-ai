@@ -5,6 +5,9 @@ body, button, input, optgroup, select, textarea, column, p {
     font-style: normal;
 }
 
+h2{
+    color: #000000;
+}
 
 .textarea:not([rows]) {
     max-height: 40em;
