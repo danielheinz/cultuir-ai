@@ -19,11 +19,15 @@ html {
     text-size-adjust: 100%;
 }
 
-body, button, input, optgroup, select, textarea, column, p {
+body, button, input, optgroup, select, textarea, p {
     font-family: 'Whyte';
     src: local('Whyte Book'), local('Whyte-Book'), url(https://uploads-ssl.webflow.com/62bb0e1…/62bb0e1…_ABCWhyte-Book.woff2) format('woff2');
     font-weight: normal;
     font-style: normal;
+}
+
+.column{
+    font-weight: bold;
 }
 
 h2 {
